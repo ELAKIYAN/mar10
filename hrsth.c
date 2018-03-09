@@ -6,5 +6,5 @@ int main(void) {
 	scanf("%d %d %d",&p,&n,&r);
 	si=(p*n*r)/100;
 	printf("%d",si);
-	return 0;
+	 return 0;
 }
